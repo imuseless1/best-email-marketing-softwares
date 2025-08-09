@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Tabular",
+    "website": "https://tabular.email",
+    "pricing": "Free + Paid",
+    "features": ["Table-based HTML builder", "Responsive design", "Export-ready code"],
+    "best_for": "Agencies, SaaS, Developers",
+    "category": "Template Builder"
+  },
+  {
+    "name": "Mailchimp",
+    "website": "https://mailchimp.com",
+    "pricing": "Free + Paid",
+    "features": ["Automation", "Templates", "Analytics"],
+    "best_for": "Small to medium businesses",
+    "category": "Email Marketing Platform"
+  },
+  {
+    "name": "Klaviyo",
+    "website": "https://klaviyo.com",
+    "pricing": "Paid",
+    "features": ["E-commerce integration", "Segmentation"],
+    "best_for": "E-commerce brands",
+    "category": "Email Marketing Platform"
+  }
+]
